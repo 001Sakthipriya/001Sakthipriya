@@ -1,5 +1,5 @@
 <h1 align="center">Sakthipriya S</h1>
-<h3 align="center">Full-Stack .NET Developer</h3>
+<h3 align="center">Software Developer | .NET Developer</h3>
 
 <p align="center">
   Building scalable enterprise web applications and RESTful APIs with ASP.NET Core, Angular &amp; SQL Server
@@ -16,9 +16,9 @@
 
 ### Summary
 
-Full-Stack .NET Developer with 2.5 years of experience designing, developing, and maintaining scalable enterprise web applications and RESTful APIs. Proficient in **ASP.NET Core, C#, Entity Framework Core, Dapper, LINQ, and SQL Server**, with hands-on experience building responsive front ends in **Angular**. Strong background in JWT-based authentication, third-party API integration, database performance optimization, and delivering end-to-end features for real-time enterprise systems.
+Software Developer with 2.5 years of experience designing, developing, and maintaining scalable enterprise web applications and RESTful APIs using the .NET stack. Proficient in **ASP.NET Core, C#, Entity Framework Core, Dapper, LINQ, and SQL Server**, with hands-on experience building responsive front ends in **Angular**. Strong background in JWT-based authentication, third-party API integration, database performance optimization, and delivering end-to-end features for real-time enterprise systems.
 
-- Most recently served as a **Software Engineer** at **DSSI Solutions (India) Pvt. Ltd.**, contributing to a real-time Jail Management System (JMS), through May 31, 2026
+- Most recently served as a **Software Developer** at **DSSI Solutions (India) Pvt. Ltd.**, contributing to a real-time Jail Management System (JMS), through May 31, 2026
 - B.E. in Computer Science & Engineering, Government College of Engineering, Srirangam
 - Based in Chennai, India -- available to join immediately
 - Core focus areas: ASP.NET Core Web API design, JWT-secured authentication, and Angular front-end development
@@ -65,9 +65,9 @@ Full-Stack .NET Developer with 2.5 years of experience designing, developing, an
 
 | Role | Company | Duration |
 |---|---|---|
-| Software Engineer | DSSI Solutions (India) Pvt. Ltd. | Dec 2025 -- May 2026 |
+| Software Developer | DSSI Solutions (India) Pvt. Ltd. | Dec 2025 -- May 2026 |
 | Developer Trainee | Knila IT Solutions Pvt. Ltd. | Apr 2024 -- Nov 2025 |
-| Full-Stack .NET Developer (Intern) | Knila IT Solutions Pvt. Ltd. | Dec 2023 -- Mar 2024 |
+| .NET Developer (Intern) | Knila IT Solutions Pvt. Ltd. | Dec 2023 -- Mar 2024 |
 
 ---
 
@@ -101,4 +101,4 @@ ASP.NET Core Web API, EF Core, SQL Server, Angular, JWT. Built a system to manag
   <a href="mailto:sakthicseian23@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>Open to full-stack .NET and Angular opportunities &middot; Available immediately</i></p>
+<p align="center"><i>Open to Software Developer / .NET Developer roles &middot; Available immediately</i></p>
