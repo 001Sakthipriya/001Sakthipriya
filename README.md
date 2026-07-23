@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Sakthipriya S ðŸ‘‹</h1>
+<h1 align="center">Hi there, I'm Sakthipriya S</h1>
 
 <p align="center">
   <b>Software Engineer | Full-Stack .NET Developer</b><br/>
@@ -14,19 +14,19 @@
 
 ---
 
-### ðŸ§­ About Me
+### About Me
 
 Full-Stack .NET Developer with **2.5 years of experience** designing, developing, and maintaining scalable enterprise web applications and RESTful APIs. Skilled in **ASP.NET Core, C#, Entity Framework Core, Dapper, LINQ, and SQL Server**, with hands-on experience in **Angular** for building responsive user interfaces. Experienced in JWT authentication, API integration, database optimization, and delivering end-to-end features for real-time enterprise applications.
 
-- ðŸ’¼ Currently a **Software Engineer** at **DSSI Solutions (India) PVT Ltd.**, working on a real-time Jail Management System (JMS)
-- ðŸŽ“ B.E. Computer Science &amp; Engineering, Government College of Engineering Srirangam
-- ðŸ“ Based in Chennai, India â€” Immediate Joiner
-- ðŸ”­ Focused on ASP.NET Core Web API design, JWT-secured authentication, and Angular front ends
-- ðŸ› Comfortable owning bug fixes and enhancements end-to-end via Jira-driven workflows
+- Currently a **Software Engineer** at **DSSI Solutions (India) PVT Ltd.**, working on a real-time Jail Management System (JMS)
+- B.E. Computer Science & Engineering, Government College of Engineering Srirangam
+- Based in Chennai, India -- Immediate Joiner
+- Focused on ASP.NET Core Web API design, JWT-secured authentication, and Angular front ends
+- Comfortable owning bug fixes and enhancements end-to-end via Jira-driven workflows
 
 ---
 
-### ðŸ› ï¸ Tech Stack
+### Tech Stack
 
 **Languages**
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -61,24 +61,24 @@ Full-Stack .NET Developer with **2.5 years of experience** designing, developing
 
 ---
 
-### ðŸ’¼ Experience
+### Experience
 
 | Role | Company | Duration |
 |---|---|---|
-| Software Engineer | DSSI Solutions (India) PVT Ltd. | 12/2025 â€“ 05/2026 |
-| Developer Trainee | Knila IT Solutions PVT Ltd. | 04/2024 â€“ 11/2025 |
-| Full-Stack .NET Developer (Intern) | Knila IT Solutions PVT Ltd. | 12/2023 â€“ 03/2024 |
+| Software Engineer | DSSI Solutions (India) PVT Ltd. | 12/2025 -- 05/2026 |
+| Developer Trainee | Knila IT Solutions PVT Ltd. | 04/2024 -- 11/2025 |
+| Full-Stack .NET Developer (Intern) | Knila IT Solutions PVT Ltd. | 12/2023 -- 03/2024 |
 
 ---
 
-### ðŸš€ Featured Projects
+### Featured Projects
 
-- **[Job Portal Management System](https://github.com/001Sakthipriya)** â€” ASP.NET Core MVC, Web API, Angular, SQL Server. Role-based auth for Admin/Employer/Job Seeker, job posting, advanced search, application tracking.
-- **Employee Management System** â€” ASP.NET Core Web API, EF Core, SQL Server, Angular, JWT. Manages employee records, departments, attendance, and leave requests with role-based access control.
+- **[Job Portal Management System](https://github.com/001Sakthipriya)** -- ASP.NET Core MVC, Web API, Angular, SQL Server. Role-based auth for Admin/Employer/Job Seeker, job posting, advanced search, application tracking.
+- **Employee Management System** -- ASP.NET Core Web API, EF Core, SQL Server, Angular, JWT. Manages employee records, departments, attendance, and leave requests with role-based access control.
 
 ---
 
-### ðŸ“Š GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=001Sakthipriya&show_icons=true&theme=tokyonight&hide_border=true" alt="Sakthipriya's GitHub Stats" height="165"/>
@@ -91,11 +91,11 @@ Full-Stack .NET Developer with **2.5 years of experience** designing, developing
 
 ---
 
-### ðŸ“« Let's Connect
+### Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/sakthipriya-s-052896258"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:sakthicseian23@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>Open to full-stack .NET and Angular roles Â· Immediate Joiner</i></p>
+<p align="center"><i>Open to full-stack .NET and Angular roles &middot; Immediate Joiner</i></p>
