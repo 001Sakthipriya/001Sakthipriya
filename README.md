@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Sakthipriya S</h1>
+<h1 align="center">Sakthipriya S</h1>
+<h3 align="center">Full-Stack .NET Developer</h3>
 
 <p align="center">
-  <b>Software Engineer | Full-Stack .NET Developer</b><br/>
   Building scalable enterprise web applications and RESTful APIs with ASP.NET Core, Angular &amp; SQL Server
 </p>
 
@@ -9,24 +9,24 @@
   <a href="https://linkedin.com/in/sakthipriya-s-052896258"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sakthicseian23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-2E9CCA?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-  <img src="https://img.shields.io/badge/Status-Immediate%20Joiner-2ea44f?style=for-the-badge" alt="Immediate Joiner"/>
+  <img src="https://img.shields.io/badge/Availability-Immediate%20Joiner-2ea44f?style=for-the-badge" alt="Immediate Joiner"/>
 </p>
 
 ---
 
-### About Me
+### Summary
 
-Full-Stack .NET Developer with **2.5 years of experience** designing, developing, and maintaining scalable enterprise web applications and RESTful APIs. Skilled in **ASP.NET Core, C#, Entity Framework Core, Dapper, LINQ, and SQL Server**, with hands-on experience in **Angular** for building responsive user interfaces. Experienced in JWT authentication, API integration, database optimization, and delivering end-to-end features for real-time enterprise applications.
+Full-Stack .NET Developer with 2.5 years of experience designing, developing, and maintaining scalable enterprise web applications and RESTful APIs. Proficient in **ASP.NET Core, C#, Entity Framework Core, Dapper, LINQ, and SQL Server**, with hands-on experience building responsive front ends in **Angular**. Strong background in JWT-based authentication, third-party API integration, database performance optimization, and delivering end-to-end features for real-time enterprise systems.
 
-- Currently a **Software Engineer** at **DSSI Solutions (India) PVT Ltd.**, working on a real-time Jail Management System (JMS)
-- B.E. Computer Science & Engineering, Government College of Engineering Srirangam
-- Based in Chennai, India -- Immediate Joiner
-- Focused on ASP.NET Core Web API design, JWT-secured authentication, and Angular front ends
-- Comfortable owning bug fixes and enhancements end-to-end via Jira-driven workflows
+- Most recently served as a **Software Engineer** at **DSSI Solutions (India) Pvt. Ltd.**, contributing to a real-time Jail Management System (JMS), through May 31, 2026
+- B.E. in Computer Science & Engineering, Government College of Engineering, Srirangam
+- Based in Chennai, India -- available to join immediately
+- Core focus areas: ASP.NET Core Web API design, JWT-secured authentication, and Angular front-end development
+- Experienced in owning bug fixes and feature enhancements end-to-end within Jira-driven Agile workflows
 
 ---
 
-### Tech Stack
+### Technical Skills
 
 **Languages**
 <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
@@ -61,20 +61,23 @@ Full-Stack .NET Developer with **2.5 years of experience** designing, developing
 
 ---
 
-### Experience
+### Professional Experience
 
 | Role | Company | Duration |
 |---|---|---|
-| Software Engineer | DSSI Solutions (India) PVT Ltd. | 12/2025 -- 05/2026 |
-| Developer Trainee | Knila IT Solutions PVT Ltd. | 04/2024 -- 11/2025 |
-| Full-Stack .NET Developer (Intern) | Knila IT Solutions PVT Ltd. | 12/2023 -- 03/2024 |
+| Software Engineer | DSSI Solutions (India) Pvt. Ltd. | Dec 2025 -- May 2026 |
+| Developer Trainee | Knila IT Solutions Pvt. Ltd. | Apr 2024 -- Nov 2025 |
+| Full-Stack .NET Developer (Intern) | Knila IT Solutions Pvt. Ltd. | Dec 2023 -- Mar 2024 |
 
 ---
 
 ### Featured Projects
 
-- **[Job Portal Management System](https://github.com/001Sakthipriya)** -- ASP.NET Core MVC, Web API, Angular, SQL Server. Role-based auth for Admin/Employer/Job Seeker, job posting, advanced search, application tracking.
-- **Employee Management System** -- ASP.NET Core Web API, EF Core, SQL Server, Angular, JWT. Manages employee records, departments, attendance, and leave requests with role-based access control.
+**[Job Portal Management System](https://github.com/001Sakthipriya)**
+ASP.NET Core MVC, Web API, Angular, SQL Server. Implemented role-based authentication for Admin, Employer, and Job Seeker roles, along with job posting, advanced search, and application tracking.
+
+**Employee Management System**
+ASP.NET Core Web API, EF Core, SQL Server, Angular, JWT. Built a system to manage employee records, departments, attendance, and leave requests with role-based access control.
 
 ---
 
@@ -91,11 +94,11 @@ Full-Stack .NET Developer with **2.5 years of experience** designing, developing
 
 ---
 
-### Let's Connect
+### Contact
 
 <p align="center">
   <a href="https://linkedin.com/in/sakthipriya-s-052896258"><img src="https://img.shields.io/badge/Connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sakthicseian23@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:sakthicseian23@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="center"><i>Open to full-stack .NET and Angular roles &middot; Immediate Joiner</i></p>
+<p align="center"><i>Open to full-stack .NET and Angular opportunities &middot; Available immediately</i></p>
